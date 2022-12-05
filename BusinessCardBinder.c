@@ -13,7 +13,7 @@
 #pragma warning (disable:4996)
 
 #if 0
-//테스트시나리오
+//Test Scenario
 int main(int argc, char* argv[]) {
 	BusinessCardBinder businessCardBinder;
 	IndexCardBinder indexCardBinder;
